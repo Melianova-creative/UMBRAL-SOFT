@@ -1,9 +1,8 @@
 # UMBRAL-SOFT
 
 <p align="center">
-  <img src="images/logo.png" alt="Logo Umbral Soft" width="300"/>
+  <img src="Copilot_20260628_014224.png" alt="Logo Umbral Soft" width="280"/>
 </p>
-
 ## 📖 Descripción
 **Umbral Soft** es una solución tecnológica web orientada a automatizar y centralizar el agendamiento de citas, la gestión de clientes, el control de inventarios y el balance financiero de un salón de belleza independiente en Bogotá y sus alrededores.  
 Proyecto académico del **SENA ADSO**, desarrollado durante el periodo educativo con metodología ágil **Scrum**.
